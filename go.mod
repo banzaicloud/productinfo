@@ -14,9 +14,9 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.7
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1160
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1169
 	github.com/asaskevich/EventBus v0.0.0-20200907212545-49d423059eef
-	github.com/aws/aws-sdk-go v1.38.66
+	github.com/aws/aws-sdk-go v1.39.0
 	github.com/banzaicloud/go-gin-prometheus v0.1.0
 	github.com/digitalocean/godo v1.62.0
 	github.com/gin-contrib/cors v1.3.1
@@ -41,8 +41,8 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/vektah/gqlparser/v2 v2.2.0
 	go.opencensus.io v0.23.0
-	golang.org/x/oauth2 v0.0.0-20210615190721-d04028783cf1
-	google.golang.org/api v0.49.0
+	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
+	google.golang.org/api v0.50.0
 	logur.dev/adapter/logrus v0.5.0
 	logur.dev/logur v0.17.0
 )
